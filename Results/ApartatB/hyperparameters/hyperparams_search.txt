@@ -1,0 +1,16 @@
+---- Cerca hiperparàmetres, model Perceptron ----
+
+Accuracy òptim amb valor: 0.8163883628851781 amb paràmetres: {'alpha': 0.0001, 'fit_intercept': True, 'penalty': 'l1', 'shuffle': True}
+
+---- Cerca hiperparàmetres, model KNN ----
+
+Accuracy òptim amb valor: 0.8394560165260803 amb paràmetres: {'metric': 'minkowski', 'n_neighbors': 13, 'weights': 'distance'}
+
+---- Cerca hiperparàmetres, model Logistic Regression ----
+
+Accuracy òptim amb valor: 0.8532621793768291 amb paràmetres: {'C': 1}
+
+---- Cerca hiperparàmetres, model Support Vector Machines ----
+
+Accuracy òptim amb valor: 0.8529351007058013 amb paràmetres: {'C': 0.1}
+

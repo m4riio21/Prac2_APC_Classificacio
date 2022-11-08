@@ -1,0 +1,46 @@
+---- 50.0% Test - 50.0% Validation ----
+
+Logistic Regressor with  50.0% of the data: 0.8561198140815975
+KNN with 50.0% of the data: 0.8401790325357205
+SVM with 50.0% of the data: 0.8568428300912377
+Perceptron with 50.0% of the data: 0.7916336718884489
+
+---- 80.0% Test - 19.999999999999996% Validation ----
+
+Logistic Regressor with  80.0% of the data: 0.8578068514374246
+KNN with 80.0% of the data: 0.8419693578929248
+SVM with 80.0% of the data: 0.8584954381132726
+Perceptron with 80.0% of the data: 0.8221724909622998
+
+---- 70.0% Test - 30.000000000000004% Validation ----
+
+Logistic Regressor with  70.0% of the data: 0.853904860274287
+KNN with 70.0% of the data: 0.8424857978998106
+SVM with 70.0% of the data: 0.8540196247202617
+Perceptron with 70.0% of the data: 0.8058759396339015
+
+---- K-fold scores ----
+
+Logistic Regressor amb k-fold = 2 : 0.8507488380099846
+Logistic Regressor amb k-fold = 3 : 0.8517130181063398
+Logistic Regressor amb k-fold = 4 : 0.8530214725815715
+Logistic Regressor amb k-fold = 5 : 0.8532105353761406
+Logistic Regressor amb k-fold = 6 : 0.8518338328775524
+
+KNN amb k-fold = 2 : 0.8270098123601308
+KNN amb k-fold = 3 : 0.82589102841497
+KNN amb k-fold = 4 : 0.8325015730216762
+KNN amb k-fold = 5 : 0.8305904630745395
+KNN amb k-fold = 6 : 0.8315034404357079
+
+SVM amb k-fold = 2 : 0.8509898433465313
+SVM amb k-fold = 3 : 0.8520228501059722
+SVM amb k-fold = 4 : 0.853038666504355
+SVM amb k-fold = 5 : 0.8529351007058013
+SVM amb k-fold = 6 : 0.8522641242768177
+
+Perceptron amb k-fold = 2 : 0.8222069202960922
+Perceptron amb k-fold = 3 : 0.7886390685735497
+Perceptron amb k-fold = 4 : 0.7789479053228858
+Perceptron amb k-fold = 5 : 0.7981924599758994
+Perceptron amb k-fold = 6 : 0.8049066110957018
